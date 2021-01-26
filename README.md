@@ -6,11 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-<<<<<<< HEAD
+
 ### `server-json --watch db.json`
 =======
 ### `json-server --watch db.json`
->>>>>>> a13522c6bb5624cda2b6c3e6e560728a4b692b69
+
 Перед запуском проекта с помощью npm запустите json-server
 для доступа к проверке имени пользователя и пароля (login: admin, password: admin)
 
