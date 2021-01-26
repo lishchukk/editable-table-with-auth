@@ -7,8 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 
-### `server-json --watch db.json`
-=======
 ### `json-server --watch db.json`
 
 Перед запуском проекта с помощью npm запустите json-server
